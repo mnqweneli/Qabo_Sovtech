@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run the below to get started:
+### `npm intall next`
+### `npm install react`
+### `npm install react-dom`
+
 ## Available Scripts
 
 In the project directory, you can run:
